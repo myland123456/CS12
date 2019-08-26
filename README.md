@@ -1,2 +1,2 @@
-# CS12A
+# CS12
 Homework stuff
